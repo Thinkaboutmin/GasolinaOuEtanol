@@ -1,0 +1,18 @@
+<resources>
+    <!-- App messages -->
+    <string name="app_name">Comparador Combustivel</string>
+    <string name="descrição">Informe o preço do etanol e gasolina para comparar</string>
+    <string name="comparar_combustivel">Comparar</string>
+    <string name="hint_gasolina">Preço Gasolina</string>
+    <string name="hint_etanol">Preço Etanol</string>
+    <string name="resultado">Resultado</string>
+    <string name="image_etanol">Etanol</string>
+    <string name="image_gasolina">Gasolina</string>
+
+    <!-- Error messages -->
+    <string name="text_convert_error_float">
+        Os valores da gasolina ou do etanol estão errados
+    </string>
+    <string name="text_empty"> Não foi passado nenhum valor do preço da gasolina ou etanol</string>
+
+</resources>
